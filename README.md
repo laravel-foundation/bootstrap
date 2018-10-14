@@ -1,6 +1,6 @@
 ## Laravel Foundation Bootstrap Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/Bootstrap/](https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/Bootstrap/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/Bootstrap/](https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/Bootstrap/)
 
 
 ### Issues
